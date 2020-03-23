@@ -25,5 +25,5 @@ We...
 - use best practices when possible but sometimes forget :)
 
 # Authors and ackowledgment
-Roberto French: Roberto.French@NationwideChildrens.org
-Connor Grannis: Connor.Grannis@NationwideChildrens.org
+- Roberto French: Roberto.French@NationwideChildrens.org
+- Connor Grannis: Connor.Grannis@NationwideChildrens.org
