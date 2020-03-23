@@ -23,7 +23,6 @@ We...
 - are self taught
 - are still learning
 - use best practices when possible but sometimes forget :)
-- 
 
 # Authors and ackowledgment
 Roberto French: Roberto.French@NationwideChildrens.org
