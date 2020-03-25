@@ -1,11 +1,27 @@
-# nch_python_workshop
+# NCH Python Workshop
 
 # Workshop Status
-Thanks to the coronavirus, we are converting this workshop to be 100% online.  We will update this page as we create new notebooks and are planning on having four weeks of material:
+Due to the coronavirus, we are converting this workshop to be 100% online.  We will update this page as we create new notebooks and are planning on having four weeks of material:
 1. Intro to python
 2. Working with Pandas and Data Visualization
 3. Integration with Excel and SPSS and file formatting
 4. Statistical packages in Python
+
+#__What is Python?__
+
+Python is a general purpose programming language, which means it can do many things, unlike R or SPSS, which are designed primarily for statistics.
+ 
+Python is flexible enough to deal with various problems: webscraping, data science, file organization, text manipulation, and much more.
+ 
+One of the main points of python (like most programming languages) is to automate tasks that you have to do frequently.  With regard to data science, that could be running analyses, organizing and inputting new data, or making graphs.
+ 
+### __How do I use it?__
+* There are text blocks (like this) and code blocks
+* to execute the code within a block, click within the block and press the play button in the top left
+
+__shortcuts__
+* ctrl+enter executes the current cell and does not advance
+* shift+enter executes the current cell and does advance
 
 # Google Colab
 Google Colaboratory is an online host for learning python.  All of the notebooks in this workshop will be posted as a jupyter notebook in a google colab format.  As long as you're signed in to your google account, you'll be able to access/run/modify the code we'll be working with.
@@ -18,6 +34,7 @@ Jupyter lab is very similar to the Google Colab environment and will be familiar
 
 ### Why we like spyder
 Spyder is great and what we use most often.  It has a traditional text editor on one side, an interactive terminal for testing your code, a file explorer, and a dedicated area for all plots/graphs.  The layout is customizable but overall very similar to R studio.
+
 # Disclaimer
 We...
 - are self taught
