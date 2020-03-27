@@ -27,7 +27,7 @@ __shortcuts__
 Google Colaboratory is an online host for learning python.  All of the notebooks in this workshop will be posted as a jupyter notebook in a google colab format.  As long as you're signed in to your google account, you'll be able to access/run/modify the code we'll be working with.
 
 # Installing Anaconda
-If you are planning on working with your own data, we strongly recommend downloading [anaconda](https://www.anaconda.com/distribution/#download-section).  Anaconda provides a platform populated with almost everything you'll need. It has several different python editors to choose from and an easy way to install new packages.  We strongly recommend working with either jupyter lab or spyder (v 4).
+If you are planning on working with your own data, we strongly recommend downloading [anaconda](https://www.anaconda.com/distribution/#download-section).  Anaconda provides a platform populated with almost everything you'll need. It has several different python editors to choose from and is an easy way to install new packages.  We strongly recommend working with either jupyter lab or spyder (v 4).
 
 ### Why we like jupyter lab
 Jupyter lab is very similar to the Google Colab environment and will be familiar and easy to work use.  Jupyter notebooks are a good way to break up your code into small chunks and also separate it with text.
