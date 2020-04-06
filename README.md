@@ -3,8 +3,8 @@
 # Workshop Status
 Due to the coronavirus, we are converting this workshop to be 100% online.  We will update this page as we create new notebooks and are planning on having four weeks of material:
 1. Intro to Python
-2. Working with Pandas and Data Visualization
-3. Integration with Excel and SPSS and file formatting
+2. Working with Pandas, file navigation, and integration with Excel and SPSS
+3. Graphing
 4. Statistical packages in Python
 
 # __What is Python?__
